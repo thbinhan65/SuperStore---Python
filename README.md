@@ -6,7 +6,9 @@
 Welcome to the SuperStore analysis project! This repository focuses on analyzing customer value to help SuperStore identify distinct customer segments. The goal is to inform targeted marketing campaigns during the holiday season, enhancing customer appreciation and loyalty.
 
 ## Objective:
-Utilize the RFM model to analyze customer data, segmenting customers based on their purchasing behavior. This analysis will aid in crafting tailored marketing strategies to engage existing customers and attract potential loyal customers. The project will leverage large datasets to automate segmentation, moving beyond manual methods.
+- Utilize the RFM model to analyze customer data, segmenting customers based on their purchasing behavior. 
+- This analysis will aid in crafting tailored marketing strategies to engage existing customers and attract potential loyal customers. 
+- The project will leverage large datasets to automate segmentation, moving beyond manual methods.
 
 ## Analysis Focus:
 
